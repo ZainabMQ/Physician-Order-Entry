@@ -1,0 +1,23 @@
+PAN,Panadol,tablet,M
+PROF,Ibuprofen,tablet,M
+ACET,Acetaminophen (Tylenol),Tablet,M
+IBUP,Ibuprofen (Advil),Tablet,M
+ASPI,Aspirin,Tablet,M
+LISI,Lisinopril,Tablet,M
+METF,Metformin,Tablet,M
+AMOX,Amoxicillin,Capsule,M
+LEVO,Levothyroxine,Tablet,M
+SIMV,Simvastatin,Tablet,M
+OMEP,Omeprazole,Capsule,M
+HYDR,Hydrochlorothiazide,Tablet,M
+FURO,Furosemide (Lasix),Injection,M
+ALBU,Albuterol (Ventolin),Inhaler,M
+PRED,Prednisone,Tablet,M
+HYDR,Hydrocodone/Acetaminophen (Vicodin),Tablet,M
+DEXA,Dexamethasone,Injection,M
+CEFT,Ceftriaxone,Injection,M
+INSU,Insulin (Humalog),Injection,M
+EPIN,Epinephrine,Injection,M
+DIPH,Diphenhydramine (Benadryl),Syrup,M
+WARF,Warfarin,Tablet,M
+MXTR,Maxitrol 5ml,Drops,M

@@ -1,0 +1,8 @@
+101,101,Y,Zainab,Physician,OutPatient,OutPatient,OL;OP;CO;VO;VR
+102,102,Y,May,Lab Tech,Laboratory,Laboratory,PC;PR;CB;RE
+103,103,Y,Rana,Pharm Tech,Pharmacy,Pharmacy,PM;PO;IM
+104,104,Y,Misk,Admin,Admenostration,Admenostration,UN;UA;UD;NM;NL
+105,105,N,Maram,Physician,OutPatient,OutPatient,OL;OP;CO;VO;VR
+106,106,N,Shahad,Lab Tech,Laboratory,Laboratory,PC;PR;CB;RE
+107,107,Y,Munira,Physician,OutPatient,OutPatient,OL;OP;CO;VO;VR
+100,100,Y,MUNIR,ADMIN,ADMIN,ADMIN,UN;UA;UD;NM;NL;OL;OP;CO;VO;VR;PC;PR;CB;RE;PO;IM;PM

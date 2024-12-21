@@ -1,0 +1,17 @@
+UN,Add new user
+UA,Activate user
+UD,Deactivate user
+NM,Add new medication
+NL,Add new laboratory test
+OL,Place laboratory order
+OP,Place pharmacy order
+CO,Cancel order
+VO,View all patient orders
+VR,View patient results
+PC,View orders for blood collection
+PR,View orders for resulting
+CB,Collect blood
+RE,Result entry
+PO,Pharmacy pending orders
+IM,Issue medications
+PM,View patient medication

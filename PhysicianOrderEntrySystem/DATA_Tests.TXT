@@ -1,0 +1,30 @@
+ALP,Alkaline Phosphatase,42.0,98.0,IU/L,L
+ALT,ALT (SGPT),9.0,52.0,IU/L,L
+AST,AST (SGOT),14.0,36.0,IU/L,L
+BILAT,Total Bilirubin,0.2,1.3,mg/dL,L
+BNP,B-type Natriuretic Peptide,0.0,100.0,pg/mL,L
+BUN,Blood Urea Nitrogen,4.0,12.0,mg/dL,L
+CA,Calcium,9.1,10.4,mg/dL,L
+CHOL,Cholesterol,0.0,200.0,mg/dL,L
+CL,Chloride,98.0,107.0,mEq/L,L
+CO2,Carbon Dioxide,13.0,22.0,mEq/L,L
+CREA,Creatinine,0.52,1.04,mg/dL,L
+FESAT,Iron Saturation,15.0,50.0,%,L
+GLU,Glucose,30.0,60.0,mg/dL,L
+GLUF,Fasting Glucose,70.0,100.0,mg/dL,L
+HDL,High-density Lipoproteins,50.0,999.0,mg/dL,L
+HGB,Hemoglobin,13.5,17.5,g/dL,L
+IRN,Iron,37.0,170.0,ug/dL,L
+K,Potassium,3.5,5.1,mEq/L,L
+LDH,Lactate Dehydrogenase,120.0,246.0,IU/L,L
+LDL,Low-density Lipoprotein,0.0,100.0,mg/dL,L
+MCV,Mean RBC Volume,77.0,96.0,fL,L
+MG,Magnesium,1.7,2.4,mg/dL,L
+NA,Sodium,137.0,145.0,mEq/L,L
+PHOS,Phosphorus,2.5,4.5,mg/dL,L
+PLT,Platelet,150.0,450.0,K/cumm,L
+PT,Prothrombin Time,9.8,12.7,Secs,L
+PTT,Active Partial Thromboplastin Time,22.0,33.0,Secs,L
+RBC,Red Blood Cells,4.5,5.9,M/cumm,L
+TGL,Triglycerides,0.0,150.0,mg/dL,L
+WBC,White Blood Cells,4.0,10.0,K/cumm,L
